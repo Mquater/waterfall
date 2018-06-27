@@ -1,0 +1,9 @@
+.waterfall {
+    width:1000px;
+    margin:20 auto;
+  }
+.waterfall img {
+    position:absolute;
+    margin:10px;
+    width:200px;
+}
